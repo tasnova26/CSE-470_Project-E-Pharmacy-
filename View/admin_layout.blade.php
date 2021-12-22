@@ -50,8 +50,8 @@
 	<div class="navbar">
 		<div class="navbar-inner" style="background-color: rgb(255, 255, 255)">
 			<div class="container-fluid">
-				<h1><a class="brand" href={{URL::to('/')}}><img src="{{asset('frontend/images/book icon.png')}}" style="width: 50px; height:50px" alt="">
-                   </h1>
+				<h1><a class="brand" href={{URL::to('/')}}><img src="{{asset('frontend/images/fuel icon.png')}}" style="width: 50px; height:50px" alt="">
+                   E-Pharmacy</h1>
 
 				<div class="nav-no-collapse header-nav">
 					<ul class="nav pull-right">
